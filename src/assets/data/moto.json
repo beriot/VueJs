@@ -1,0 +1,70 @@
+{
+  "name": "Triumph",
+  "articles": [
+    {
+      "name": "Selle",
+      "prix": 199,
+      "photo": "selle.jpg",
+      "stock": "yes"
+    },
+    {
+      "name": "Clignotant",
+      "prix": 105,
+      "photo": "cli.jpg",
+      "stock": "yes"
+    },
+    {
+      "name": "Antivol U",
+      "prix": 159,
+      "photo": "u.jpg",
+      "stock": "out"
+    }
+  ],
+  "motos": [
+    {
+      "name": "Speed triple rs",
+      "cm3": "1 050",
+      "couple": "117",
+      "puissance": "150",
+      "prix": "16 250",
+      "stock": "non disponible",
+      "photo": "speed.png"
+    },
+    {
+      "name": "rocket 3",
+      "cm3": "2 500",
+      "couple": "221",
+      "puissance": "167",
+      "prix": "22 400",
+      "stock": "en stock",
+      "photo": "rocket.png"
+    },
+    {
+      "name": "Street triple rs",
+      "cm3": "765",
+      "couple": "79",
+      "puissance": "123",
+      "prix": "12 100",
+      "stock": "en stock",
+      "photo": "Street.png"
+    },
+    {
+      "name": "Tiger 900",
+      "cm3": "900",
+      "couple": "87",
+      "puissance": "95",
+      "prix": "13 400",
+      "stock": "en stock",
+      "photo": "Tiger.png"
+    },
+    {
+      "name": "Street scrambler",
+      "cm3": "900",
+      "couple": "80",
+      "puissance": "65",
+      "prix": "11 000",
+      "stock": "non disponible",
+      "photo": "scrambler.png"
+    }
+  ]
+}
